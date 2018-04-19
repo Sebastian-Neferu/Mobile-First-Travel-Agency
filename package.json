@@ -1,0 +1,27 @@
+{
+  "name": "mobile-first-travel-agency",
+  "version": "1.0.0",
+  "description": "my training site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian-Neferu/Mobile-First-Travel-Agency.git"
+  },
+  "keywords": [
+    "travel",
+    "agency"
+  ],
+  "author": "Sebastian Neferu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastian-Neferu/Mobile-First-Travel-Agency/issues"
+  },
+  "homepage": "https://github.com/Sebastian-Neferu/Mobile-First-Travel-Agency#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
